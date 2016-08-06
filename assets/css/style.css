@@ -4,13 +4,46 @@ header{
 	
 }
 
-.mainbody {
+body {
 
-	width: 950px;
+
+	background-color: #ffffff;
+
+}
+
+.body {
+
+	width: 960px;
+
+	position: relative;
 
 
 	margin-left: auto;
 	margin-right: auto;
+
+}
+
+.bgName {
+
+	position: absolute;
+	background-color: #4aaaa5;
+
+	height: 80px;
+	width: 215px;
+
+
+
+}
+
+.name {
+
+	font-family: Georgia, Times, "Times New Roman", serif;
+
+	text-align: center;
+
+	top: 25px;
+
+	color: #ffffff ;
 
 }
 
