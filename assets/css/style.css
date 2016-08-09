@@ -202,6 +202,75 @@ header {
 
 }
 
+#portfolio {
+
+
+	float: left;
+
+	margin-top: 40px;
+
+	width: 650px;
+
+	background-color: #ffffff;
+
+	border: 1px solid #dddddd;
+
+	padding-bottom: 30px;
+
+}
+
+#portfolio h1 {
+
+	font-family: Georgia, Times, "Times New Roman", serif;
+	font-size: 2em;
+	font-weight: bold;
+
+	color: #4aaaa5;
+
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+	margin-left: 30px;
+	margin-right: 30px;
+
+	border-bottom: 2px solid #dddddd;
+
+}
+
+.photo1 { 
+
+   position: relative; 
+ 
+}
+
+.photo1 img {
+
+	position: absolute;
+
+	display: block;
+
+ 	max-width:275x;
+ 	max-height:205px;
+
+ 	width: auto;
+ 	height: auto;
+
+ 	margin-left: 30px;
+ 	margin-top: 50px;
+
+
+
+}
+
+#photo1h2 { 
+
+   position: absolute; 
+
+   
+}
+
+
+
 .socialworld {
 
 	float: right;
