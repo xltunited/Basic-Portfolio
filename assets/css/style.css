@@ -596,6 +596,8 @@ header {
 
 	border: 1px solid #dddddd;
 
+	margin-bottom: 30px;
+
 
 }
 
@@ -619,6 +621,52 @@ header {
 
 }
 
+form {
+
+	margin-top: 50px;
+	margin-left: 30px;
+
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+	color: #777777;
+
+
+}
+
+.text1 {
+
+	margin-top: 15px;
+	margin-bottom: 20px;
+
+	height: 30px;
+
+	width: 94.5%;
+	
+
+}
+
+.text2 {
+
+	
+	margin-top: 15px;
+	margin-bottom: 20px;
+
+	width: 94.5%;
+
+	height: 200px;
+
+}
+
+.button {
+
+	background-color: #4aaaa5;
+	border-style: none;
+	height: 40px;
+	width: 115px;
+	color: #ffffff;
+
+
+}
 
 .push {
 
@@ -636,6 +684,8 @@ footer {
 	text-align: center;
 
 	background-color: #666666;
+
+
 
 	
 
