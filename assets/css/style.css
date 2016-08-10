@@ -25,15 +25,11 @@ body {
 
  	margin-bottom: -105px;
 
-
-
-
 }
 
 header {
 
 	width: 100%;
-
 
 }
 
@@ -322,9 +318,6 @@ header {
  	margin-right: 30px;
  	margin-top: 50px;
 
-
-
-
 }
 
 #photo2h2 { 
@@ -585,6 +578,44 @@ header {
   	margin-top: 25px;
 
   	margin-bottom: 40px;
+
+}
+
+#contact {
+
+
+	float: left;
+
+	margin-top: 40px;
+
+	width: 650px;
+
+	background-color: #ffffff;
+
+	padding-bottom: 30px;
+
+	border: 1px solid #dddddd;
+
+
+}
+
+#contact h1{
+
+	font-family: Georgia, Times, "Times New Roman", serif;
+	font-size: 2em;
+	font-weight: bold;
+
+	color: #4aaaa5;
+
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+	margin-left: 30px;
+	margin-right: 30px;
+
+	border-bottom: 2px solid #dddddd;
+
+
 
 }
 
